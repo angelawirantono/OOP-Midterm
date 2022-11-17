@@ -1,0 +1,10 @@
+D:\University\111-1\OOP 師大\mid_mock\mid_mock\bin\Debug\mid_mock.exe.config
+D:\University\111-1\OOP 師大\mid_mock\mid_mock\bin\Debug\mid_mock.exe
+D:\University\111-1\OOP 師大\mid_mock\mid_mock\bin\Debug\mid_mock.pdb
+D:\University\111-1\OOP 師大\mid_mock\mid_mock\obj\Debug\mid_mock.csprojAssemblyReference.cache
+D:\University\111-1\OOP 師大\mid_mock\mid_mock\obj\Debug\mid_mock.Form2.resources
+D:\University\111-1\OOP 師大\mid_mock\mid_mock\obj\Debug\mid_mock.Properties.Resources.resources
+D:\University\111-1\OOP 師大\mid_mock\mid_mock\obj\Debug\mid_mock.csproj.GenerateResource.cache
+D:\University\111-1\OOP 師大\mid_mock\mid_mock\obj\Debug\mid_mock.csproj.CoreCompileInputs.cache
+D:\University\111-1\OOP 師大\mid_mock\mid_mock\obj\Debug\mid_mock.exe
+D:\University\111-1\OOP 師大\mid_mock\mid_mock\obj\Debug\mid_mock.pdb
